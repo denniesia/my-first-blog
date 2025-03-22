@@ -1,0 +1,87 @@
+h1 a, h2 a {
+    color: deeppink;
+    font-family: 'Lobster';
+}
+
+body {
+    padding-left: 15px;
+}
+
+.page-header {
+    background-color: pink;
+    margin-top: 0;
+    margin-bottom: 40px;
+    padding: 20px 20px 20px 40px;
+}
+
+.page-header h1,
+.page-header h1 a,
+.page-header h1 a:visited,
+.page-header h1 a:active {
+    color: darkorchid;
+    front-size: 36pt;
+    text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    fron-family: 'Lobster', cursive;
+}
+
+.date {
+    color: fuchsia;
+}
+
+.save {
+    float:right;
+}
+
+.post-formn textarea,
+.post-form input {
+    width: 100%;
+}
+
+.top-menu,
+.top-menu:hover,
+.top-meny:visited {
+    color: indianred;
+    float: right;
+    font-size: 26pt;
+    margin-right: 20px;
+}
+
+.post {
+    margin-bottom: 70px;
+}
+
+.post h2 a,
+.post h2 a:visited {
+    color: cornflowerblue;
+}
+
+.post > .date,
+.post > .actions {
+    float: right;
+}
+
+.btn-secondary,
+.btn-secondary:visited {
+    color: darkcyan;
+    background: none;
+    border-color: darksalmon;
+    margin-left: 15px;
+}
+
+.btn-secondary:hover {
+    color: cyan;
+    background-color: salmon;
+}
+
+
+
+
+
+
+
